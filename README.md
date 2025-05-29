@@ -31,3 +31,5 @@ exports['dc-notify']:ShowNotification('Title', 'Message', 'info', 5000)
 ```lua
 exports['dc-notify']:ShowNotification('Welcome', 'You have joined the server!', 'success', 5000)
 ```
+
+Made by CSN & Diego.
